@@ -1,5 +1,5 @@
 # Maform
-
+This is an angular form made using material ui and cards
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
 
 ## Development server
